@@ -57,8 +57,3 @@ purchaseService.buyBook("ISBN2", 1, new EBookPurchaseRequest("user@example.com")
 - **Interface Segregation**: specific request types per book.
 - **Dependency Inversion**: logic depends on abstractions.
 
----
-
-## 👤 Author
-
-- **Amira Ashour** – Java Developer, aspiring software engineer 💻
